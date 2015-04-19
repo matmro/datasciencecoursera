@@ -1,2 +1,3 @@
 # datasciencecoursera
-This is the repo for week1's final project.
+This is the repo for week 1's final project.
+ 
